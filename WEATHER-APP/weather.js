@@ -121,5 +121,3 @@ locButton.addEventListener('click', () => {
 
     fetchWeatherData(location);
 });
-
-//568b1d2d85f1da7b4bcac1cece0b7829
